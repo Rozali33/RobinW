@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700&display=swap');
+
+
+body {
+    background-color: black;
+    margin: 0;
+    font-family: 'Sen', sans-serif;
+    position: relative;
+}
+
+.gray { color: rgb(255, 255, 255, 0.50); }
+
+.green { color: #3CC74E; }
+
+.blue { color: #609BFF; }
+
+.pink { color: #E95D90; }
+
+.wrapper {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 72px;
+    box-sizing: border-box;
+}
+
+@media (max-width: 750px) {
+    .wrapper {
+        padding: 0 20px;;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
